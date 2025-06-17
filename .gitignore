@@ -3,15 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# OSX useful to ignore
-*.DS_Store
+# macOS system files
+.DS_Store
 .AppleDouble
 .LSOverride
-
-# Thumbnails
 ._*
-
-# Files that might appear in the root of a volume
 .DocumentRevisions-V100
 .fseventsd
 .Spotlight-V100
@@ -19,44 +15,44 @@ __pycache__/
 .Trashes
 .VolumeIcon.icns
 .com.apple.timemachine.donotpresent
-
-# Directories potentially created on remote AFP share
 .AppleDB
 .AppleDesktop
 Network Trash Folder
 Temporary Items
 .apdisk
 
-# C extensions
-*.so
-
-# Distribution / packaging
-.Python
+# Python environment
+venv/
 env/
+.Python
+
+# Build & packaging
 build/
-develop-eggs/
 dist/
 downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-*.dist-info/
 *.egg-info/
-.installed.cfg
 *.egg
+*.so
+*.dmg
+*.zip
+*.tar.gz
+*.app
+*.icns
 
-# IntelliJ Idea family of suites
-.idea
-*.iml
-## File-based project format:
-*.ipr
-*.iws
-## mpeltonen/sbt-idea plugin
-.idea_modules/
-
-# Briefcase log files
+# Briefcase outputs
+macOS/
 logs/
+installer/
+support/
+__pycache__/
+
+# IDE/editor files
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+*.bak
+
+# General
+*.log
