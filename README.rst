@@ -8,29 +8,29 @@ Built with [PySide6](https://wiki.qt.io/Qt_for_Python) and packaged using [BeeWa
 
 ## Download
 
-👉 [Download the latest version (Mac only)](https://github.com/ldrocha1209/YoutubeToMp3/releases/tag/v1.0.0)
+[Download the latest version (Mac only)](https://github.com/ldrocha1209/YoutubeToMp3/releases/tag/v1.0.0)
 Simply unzip the app, drag it to your `Applications` folder, and launch it. If macOS warns you about it being unsigned, right-click the app and select **Open** (this only needs to be done once).
 
 ---
 
 ## Features
 
-- ✅ **One-click MP3 downloads** from any YouTube video URL
-- ✅ **High-quality audio conversion** (192kbps)
-- ✅ **Download without ads, popups, or malware risk**
-- ✅ **Unlimited use** — no accounts, no throttling, no size caps
-- ✅ **Private & secure** — all processing happens locally
-- ✅ **Built-in error handling** for invalid URLs and no internet connection
+- **One-click MP3 downloads** from any YouTube video URL
+- **High-quality audio conversion** (192kbps)
+- **Download without ads, popups, or malware risk**
+- **Unlimited use** — no accounts, no throttling, no size caps
+- **Private & secure** — all processing happens locally
+- **Built-in error handling** for invalid URLs and no internet connection
 
 ---
 
-## 🛡Why Use This Instead of Online Converters?
+## Why Use This Instead of Online Converters?
 
 Unlike online converters that:
-- ❌ Inject ads and trackers
-- ❌ Require shady browser permissions
-- ❌ Compress or limit audio quality
-- ❌ Often break due to YouTube updates
+- Inject ads and trackers
+- Require shady browser permissions
+- Compress or limit audio quality
+- Often break due to YouTube updates
 
 **YT2MP3 runs 100% locally**, ensuring:
 - Better security
